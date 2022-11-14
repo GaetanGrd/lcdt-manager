@@ -1,0 +1,11 @@
+{
+    "NavBar":{
+        "news" : "Actualité",
+        "mods" : "Mods",
+        "tools" : "Outils",
+        "backup" : "Sauvegarde",
+        "exportImport" : "Export/import",
+        "donator" : "Donateurs",
+        "settings" : "Paramètres"
+    }
+}
