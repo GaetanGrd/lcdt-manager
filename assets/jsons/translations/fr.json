@@ -1,17 +1,35 @@
 {
+    "misc" : {
+        "login" :"Connexion",
+        "logout" :"Déconnexion"
+    },
+
     "pages" : {
         "home" : {
             "title" : "Accueil"
         },
         "game":{
-            "title" : "Jeu"
+            "title" : "Jeu",
+            "mods" : {
+                "title": "Mods"
+            },
+            "backup/restore" : {
+                "title" : "Backup/Restore",
+                "backup" : "Backup",
+                "restore" : "Restore",
+                "gamefiles" : "game files",
+                "modslist" : "Mods list",
+                "toolslist" : "Tools list"
+            }
         },
         "tools": {
-            "title" : "Outils"
+            "title" : "Tools"
         },
         "settings":{
-            "title" :"Paramètres"
+            "title" :"Settings"
+        },
+        "donators":{
+            "title" : "Donators"
         }
     }
-    
 }

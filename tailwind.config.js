@@ -8,7 +8,11 @@ module.exports = {
       colors: {
         sky: colors.sky,
         cyan: colors.cyan,
+        'black-russian': '#1c1f24',
       },
+    },
+    fontFamily: {
+      'sans': ['Helvetica', 'Arial', 'sans-serif'],
     },
   },
   variants: {

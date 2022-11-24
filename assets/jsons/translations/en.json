@@ -1,11 +1,35 @@
 {
-    "nav-bar":{
-        "news" : "News",
-        "mods" : "Mods",
-        "tools" : "Tools",
-        "backup" : "Backup",
-        "exportImport" : "Export/import",
-        "donator" : "Donator",
-        "settings" : "Settings"
+    "misc" : {
+        "login" :"Log-in",
+        "logout" :"Log-out"
+    },
+
+    "pages" : {
+        "home" : {
+            "title" : "Home"
+        },
+        "game":{
+            "title" : "Game",
+            "mods" : {
+                "title": "Mods"
+            },
+            "backup/restore" : {
+                "title" : "Backup/Restore",
+                "backup" : "Backup",
+                "restore" : "Restore",
+                "gamefiles" : "game files",
+                "modslist" : "Mods list",
+                "toolslist" : "Tools list"
+            }
+        },
+        "tools": {
+            "title" : "Tools"
+        },
+        "settings":{
+            "title" :"Settings"
+        },
+        "donators":{
+            "title" : "Donators"
+        }
     }
 }
