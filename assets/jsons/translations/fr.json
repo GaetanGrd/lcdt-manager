@@ -1,11 +1,17 @@
 {
-    "NavBar":{
-        "news" : "Actualité",
-        "mods" : "Mods",
-        "tools" : "Outils",
-        "backup" : "Sauvegarde",
-        "exportImport" : "Export/import",
-        "donator" : "Donateurs",
-        "settings" : "Paramètres"
+    "pages" : {
+        "home" : {
+            "title" : "Accueil"
+        },
+        "game":{
+            "title" : "Jeu"
+        },
+        "tools": {
+            "title" : "Outils"
+        },
+        "settings":{
+            "title" :"Paramètres"
+        }
     }
+    
 }
