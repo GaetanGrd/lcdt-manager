@@ -1,5 +1,4 @@
 import { MemoryRouter as Router, Routes, Route } from 'react-router-dom';
-import icon from '../../assets/icon.svg';
 import "tailwindcss/tailwind.css";
 import { useTranslation } from "renderer/hooks/use-translation.hook";
 import { NavBar } from './components/nav-bar/nav-bar.component'
